@@ -1,0 +1,52 @@
+/**
+* @name Entity/1400
+* @version Auto Update
+* @description Made by Unkn0wn for Entity/1400
+* @author Unkn0wn#4541
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+:root {
+--background-image: url('https://i.imgur.com/DnwOM4j.gif');
+--background-image-blur: 0px;
+--background-image-size: contain;
+--background-image-position: center;
+--popout-modal-image: url('https://i.imgur.com/dxZ96dA.gif');
+--popout-modal-blur: 0px;
+--popout-modal-size: contain;
+--popout-modal-position: bottom;
+--home-button-image: url('https://i.imgur.com/ovAqtQL.gif');
+--home-button-size: contain;
+--home-button-position: center;
+--serverlist-brightness: 0;
+--left-brightness: 0;
+--middle-brightness: 0;
+--right-brightness: 0;
+--popout-modal-brightness: 0.75;
+--gradient-primary: 33,33,33;
+--gradient-secondary: 0,0,0;
+--gradient-direction: 320deg;
+--tint-colour: 88,88,88;
+--tint-brightness: 0;
+--window-padding: 0px;
+--window-roundness: 0px;
+--scrollbar-colour: #ffffff0d;
+--link-colour: #640000FF;
+--show-gift-gif-buttons: no-repeat;
+--font: 'Home Remedy';
+--update-notice-1: none;
+--rs-small-spacing: 0px;
+--rs-medium-spacing: 0px;
+--rs-large-spacing: 0px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #15B504FF;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #636b75;
+--rs-phone-visible: block;
+}
