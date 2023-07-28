@@ -7,7 +7,7 @@
 @import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 :root {
---background-image: url('hhttps://media4.giphy.com/media/XuGvUblZoXHcfEskBp/giphy.gif');
+--background-image: url('https://media4.giphy.com/media/XuGvUblZoXHcfEskBp/giphy.gif');
 --background-image-blur: 0px;
 --background-image-size: contain;
 --background-image-position: center;
