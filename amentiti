@@ -33,7 +33,7 @@
 --scrollbar-colour: #ffffff0d;
 --link-colour: #640000FF;
 --show-gift-gif-buttons: no-repeat;
---font: 'Impact';
+--font: 'Cursive';
 --update-notice-1: none;
 --rs-small-spacing: 0px;
 --rs-medium-spacing: 0px;
