@@ -12,7 +12,7 @@
 --background-image-size: contain;
 --background-image-position: center;
 --popout-modal-blur: 0px;
---popout-modal-image: url('https://i.hizliresim.com/apg54gq.jpg');
+--popout-modal-image: url('https://i.ibb.co/GxBH1qb/boa-OIPYPc7gfyh2-Tg8-U-z-BFs-L-ONt-TEGm76-MNXk2j-TYW4-R3-D8l-Nwhjlc-Qj5-P1-OC2h-UEUCo5-VXyq-HT-9-BTD.jpg');
 --popout-modal-size: contain;
 --popout-modal-position: bottom;
 --home-button-image: url('https://i.hizliresim.com/ch4c1zs.jpg');
